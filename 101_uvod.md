@@ -231,8 +231,7 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](idle_text){#fig:idle_text
-width="\\textwidth"}
+![IDLE i pisanje tekstualnih datoteka](images/idle_text.png)
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
 tekstualnih datoteka (poput Notepada i sličnog softvera), a ne komandna
@@ -245,8 +244,7 @@ asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
 radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
 reference="fig:idle_text_run"}.
 
-![IDLE i rezultat izvršavanja
-programa](idle_text_run){#fig:idle_text_run width="\\textwidth"}
+![IDLE i rezultat izvršavanja programa](images/idle_text_run.png)
 
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
